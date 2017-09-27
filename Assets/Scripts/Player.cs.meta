@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 25a571cd4be6dac439d1dccaeaa98135
+timeCreated: 1506438342
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - addCubeTransform: {instanceID: 0}
+  - whiteCubeTransform: {fileID: 4828060017259430, guid: 42fe883066eadca40bf8e7e3de5acb0e,
+      type: 2}
+  - grayCubeTransform: {fileID: 4231524200246182, guid: 7bdd78e46bc52bd4e83148bfaac4f04a,
+      type: 2}
+  - greenCubeTransform: {fileID: 4287592003344218, guid: 300a609c68ba68740a90ff98d1a8f90a,
+      type: 2}
+  - blueCubeTransform: {fileID: 4957604316316404, guid: 767ff707ab75fb94d9bec987e636291c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

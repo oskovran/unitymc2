@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bda2e397a45b0ef47afca45779245f0d
+timeCreated: 1506438289
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - menu: {instanceID: 0}
+  - firstPersonController: {instanceID: 0}
+  - whiteCubeTransform: {instanceID: 0}
+  - grayCubeTransform: {instanceID: 0}
+  - greenCubeTransform: {instanceID: 0}
+  - blueCubeTransform: {fileID: 4957604316316404, guid: 767ff707ab75fb94d9bec987e636291c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
